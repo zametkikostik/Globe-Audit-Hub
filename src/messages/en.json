@@ -1,0 +1,41 @@
+{
+  "Home": {
+    "title": "Globe Audit Hub",
+    "subtitle": "Professional audit and accounting with AI support"
+  },
+  "Nav": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "Payment": {
+    "button": "Pay for Consultation (10 DAI / A7A5)",
+    "title": "Crypto Payment",
+    "amount": "Amount:",
+    "network": "Network: Polygon",
+    "wallet": "Wallet:",
+    "processing": "Processing payment...",
+    "success": "Payment successful!",
+    "thankYou": "Thank you for your payment! Your consultation will be scheduled shortly.",
+    "txHash": "Transaction Hash:",
+    "viewExplorer": "View on PolygonScan",
+    "error": {
+      "walletNotFound": "Wallet not found! Please install MetaMask or another Web3 wallet.",
+      "userRejected": "Payment cancelled. Please try again.",
+      "insufficientFunds": "Insufficient funds in your wallet.",
+      "networkError": "Network error. Please make sure you're on Polygon network.",
+      "unknown": "Payment failed. Please try again."
+    },
+    "installMetaMask": "Install MetaMask",
+    "switchNetwork": "Switch to Polygon"
+  },
+  "Chat": {
+    "placeholder": "Ask about taxes or accounting...",
+    "send": "Send",
+    "examples": {
+      "usn6": "Calculate USN 6%",
+      "ndfl13": "Calculate NDFL 13%",
+      "whatIsUSN": "What is USN?"
+    }
+  }
+}

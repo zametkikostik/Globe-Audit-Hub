@@ -1,0 +1,103 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build outputs
+.next/
+out/
+build/
+dist/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+globe_audit.db
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Directory for instrumented libs
+lib-cov/
+
+# Coverage directory
+coverage/
+*.lcov
+.nyc_output/
+
+# Cache
+.cache/
+.parcel-cache/
+.turbo/
+.vercel/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Testing
+.nyc_output/
+
+# Misc
+.eslintcache
+.stylelintcache
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.pytest_cache/
+.tox/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Uploads
+uploads/
+*.upload
+
+# Secrets (never commit these!)
+*.pem
+*.key
+*.crt
+secrets/
+credentials/
+
+# Local development
+localhost/
+*.local
